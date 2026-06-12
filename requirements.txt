@@ -1,0 +1,6 @@
+feedparser>=6.0
+sentence-transformers>=2.7
+scikit-learn>=1.4
+numpy>=1.26
+anthropic>=0.40
+python-dotenv>=1.0
